@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+.vscode/
+
+# .NET build
+bin/
+obj/
+
+# Visual Studio user files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Test results
+TestResults/
+
+# Rider
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local development configuration
+**/appsettings.Development.json
